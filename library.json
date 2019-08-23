@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-ds3231-module-ds3231m",
+  "title": "ds3231-module-ds3231m",
+  "keywords": "ds3231-module-ds3231m, esp32, esp8266, arduino",
+  "description": "ds3231-module-ds3231m plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-ds3231-module-ds3231m/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-ds3231-module-ds3231m/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
