@@ -1,17 +1,17 @@
 {
   "name" : "kbide-plugin-ds3231-module-ds3231m",
-  "title": "ds3231-module-ds3231m",
-  "keywords": "ds3231-module-ds3231m, esp32, esp8266, arduino",
+  "title": "DS3231 Real-Time Clock Module",
+  "keywords": "ds3231, rtc, esp32, esp8266, arduino",
   "description": "ds3231-module-ds3231m plugin for KB-IDE",
-  "category":"",
+  "category":"Timing",
   "git": "https://github.com/cmmc-kbide/kbide-plugin-ds3231-module-ds3231m/",
-  "author": "cmmakerclub",
-  "email": "",
+  "author": "Prawared",
+  "email": "prawared.bw@gmail.com",
   "url": "https://github.com/cmmc-kbide/kbide-plugin-ds3231-module-ds3231m/",
   "version": "1.0.0",
   "board" : "",
   "platform": ["arduino-esp32"],
   "license": "",
-  "image" : "/static/display.png",
+  "image" : "/static/display.jpg",
   "homepage": "http://www.kbide.org"
 }
