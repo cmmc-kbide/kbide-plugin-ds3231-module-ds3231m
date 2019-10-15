@@ -1,1 +1,1 @@
-# ds3231-module-ds3231m library for KB-IDE
+# ds3231-module library for KB-IDE
